@@ -13,4 +13,4 @@ The robot uses a combination of state detection and reinforcement learning to im
 ## **Watch the process:**
 Below is a video showing how the robot moves after it has learned to follow the line effectively.
 
-![Demo of the robot](Demo.mp4)
+[Demo of the robot](Demo.mp4)
